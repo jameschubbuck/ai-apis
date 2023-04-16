@@ -1,4 +1,10 @@
-# text-to-voice-apis
-A list of I bunch of text to voice api's I have found work well
+# text to voice
 
 - eleven labs [documentation](https://api.elevenlabs.io/docs) [pricing](https://beta.elevenlabs.io/pricing) [website](https://elevenlabs.io)
+
+# llms
+
+- chatGPT
+- bard
+- LLaMA
+- freedom GPT
