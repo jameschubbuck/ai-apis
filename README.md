@@ -1,8 +1,10 @@
-# Cool AI Stuff
+# AI APIs
+
+this is a collection of a bunch of usefull AI APIs I have come across and liked. 
 
 <details><summary>
 
-  ## Automatic Speech Recogntion (ASR) / Speech to Text (STT)
+  ### Automatic Speech Recogntion (ASR) / Speech to Text (STT)
 
 </summary>
 
@@ -13,19 +15,20 @@
 
 <details><summary>
 
-  ## Text to Speech (TTS)
+  ### Text to Speech (TTS)
 
 </summary>
 
-|thing|website|pricing|docs|uncensored|stores data|trains with data|
+|thing|website|pricing|documentation|uncensored|stores data|trains with data|
 |-|-|-|-|-|-|-|
-|Eleven Labs|[website](https://elevenlabs.io)|[pricing](https://beta.elevenlabs.io/pricing)|[documentation](https://api.elevenlabs.io/docs)|-|-|-|
+|Eleven Labs|[🌐](https://elevenlabs.io)|[💰](https://beta.elevenlabs.io/pricing)|[📔](https://api.elevenlabs.io/docs)|-|-|-|
+|Play.ht|[🌐](https://play.ht/)|[💰](https://play.ht/pricing)|[📔](https://playht.github.io/api-docs-generator/#ultra-realistic-voices-api)|-|-|-|
 
 </details>
 
 <details><summary>
 
-  ## Text things
+  ### Text things
   
 </summary>
 
@@ -40,7 +43,7 @@
 
 <details><summary>
 
-  ## Generative Art
+  ### Generative Art
 
 </summary>
 
